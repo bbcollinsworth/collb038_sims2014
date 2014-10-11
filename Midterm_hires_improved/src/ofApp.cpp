@@ -123,9 +123,9 @@ void ofApp::draw(){
     }
 
     //UNCOMMENT TO SAVE IMAGES
-    string frameCount = ofToString(20000+ofGetFrameNum());
-    string fileName = "Images/" + frameCount + ".png";
-    ofSaveScreen(fileName);
+    //string frameCount = ofToString(20000+ofGetFrameNum());
+    //string fileName = "Images/" + frameCount + ".png";
+    //ofSaveScreen(fileName);
 }
 
 
