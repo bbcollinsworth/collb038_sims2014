@@ -192,7 +192,7 @@ void Particle::draw(){
     int rad = radius*2;
 
     for (int j = 0; j < rad; j++){
-    ofSetColor(255-(j*5),255-(j*5),255/(rad-j),100);
+    ofSetColor(255-(j*20),255-(j*20),255/(rad-j),50);
     ofCircle(pos.x, pos.y, (rad-j)*(rad-j)*0.1); //pos.z, radius);
     }
 
