@@ -94,7 +94,11 @@ void ofApp::draw(){
       //  ofBeginSaveScreenAsPDF(ofGetTimestampString()+".pdf");
     //}
 
-    ofBackground(213, 205, 169);
+    //ofBackground(213, 205, 169);
+
+    //ofBackgroundGradient(ofColor (213, 205, 169), ofColor (160, 150, 100));
+
+    ofBackgroundGradient(ofColor (250, 240, 200), ofColor (190, 175, 140));
 	ofSetColor(255);
 
     ofPushMatrix();

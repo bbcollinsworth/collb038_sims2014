@@ -3,6 +3,7 @@
 //--------------------------------------------------------------
 void ofApp::setup(){
 
+//ofSetBackgroundAuto(false);
     ofSetVerticalSync(true);
 	ofSetFrameRate(60);
 
@@ -10,10 +11,10 @@ void ofApp::setup(){
 
     ofBackground(0);
 
-    ofSetBackgroundAuto(false);
+
 
     //create the particles
-    num = 600;
+    num = 500;
 
     for(int i =0; i < num; i++){
 
@@ -37,7 +38,7 @@ void ofApp::update(){
 
 //--------------------------------------------------------------
 void ofApp::draw(){
-    ofBackground(0,5);
+   // ofBackground(0,5);
     //ofBackground(255,255,240);
 	//ofSetColor(255);
 
