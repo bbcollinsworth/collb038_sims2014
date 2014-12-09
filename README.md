@@ -35,4 +35,14 @@ https://www.facebook.com/bryanbcollinsworth/media_set?set=a.712569642847.1073741
 <br />
 4. Phractal Phun (playing with week 11)<br />
 https://www.facebook.com/bryanbcollinsworth/media_set?set=a.717503325707.1073741832.28600753&type=3<br />
+<br />
+<br />
+VIDEO DOCUMENTATION<br />
+<br />
+Midterm Project: Flower Power<br />
+https://www.youtube.com/watch?v=IKvySHfLtkY
+<br />
+Final Projeect: Brush Painting with Code<br />
+https://www.youtube.com/watch?v=YLVo3QOlEX4<br />
+<br />
 
