@@ -74,6 +74,12 @@ void ofApp::keyPressed(int key){
     if(key == 'f'){
         ofToggleFullscreen();
     }
+
+    if(key == 's'){
+        string frameCount = ofToString(20000+ofGetFrameNum());
+        string fileName = "Images/" + frameCount + ".jpg";
+        ofSaveScreen(fileName);
+    }
 }
 
 //--------------------------------------------------------------
